@@ -1,11 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Gabriel Barreto</h1>
-<h3 align="center">Analista de Sistemas & Front End Developer</h3>
-
-- 📝 Atualmente estou desenvolvendo Projetos pessoais para me aperfeiçoar no Desenvolvimento de aplicações Web, me especializando na linguagem  **PHP, Framework Laravel, HTML, CSS, Bootstrap**, utilizando como Banco de Dados o **MySql**.
-
-- ⚡ Desenvolvimento pessoal [Portfolio](https://github.com/Gabrielbrrt)
-
-- 💬 Me pergunte sobre **SQL, PHP, e Desenvolvimento Web**
+<h3 align="center">Desenvolvedor de Sistemas</h3>
 
 - 📫 Você me acha através do E-mail: **Gabrielbrt.dev@gmail.com**
 
